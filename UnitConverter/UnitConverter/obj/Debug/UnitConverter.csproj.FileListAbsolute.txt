@@ -1,0 +1,8 @@
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Form1.resources
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\Mohamed\Desktop\NetworkTask#1\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb
